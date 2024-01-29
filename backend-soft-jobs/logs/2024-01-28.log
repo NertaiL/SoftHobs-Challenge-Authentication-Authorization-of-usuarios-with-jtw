@@ -1,0 +1,128 @@
+
+Started POST /login for :: ::1 at Sun Jan 28 2024 14:58:31 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"hans.latoja@gmail.com","password":"genius123"}
+Completed: 200 message:  Time response: 190 ms Request ID: [3a311bce-2bd1-4fe5-8952-a9e6ab41ba94]
+
+Started GET /usuarios for :: ::1 at Sun Jan 28 2024 14:58:33 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 12 ms Request ID: [f1b12902-6a08-48c1-b298-08d8f7a858ce]
+
+Started GET /usuarios for :: ::1 at Sun Jan 28 2024 14:58:33 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 10 ms Request ID: [d670c771-bc7a-43ee-abf4-46429187f80a]
+
+Started POST /login for :: ::1 at Sun Jan 28 2024 14:58:38 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"docente@desafiolatam.com","password":"123456"}
+Completed: 400 message:  Time response: 5 ms Request ID: [64040576-08f6-4285-8d1f-2c214702e419]
+
+Started POST /login for :: ::1 at Sun Jan 28 2024 14:58:40 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"docente@desafiolatam.com","password":"123456"}
+Completed: 400 message:  Time response: 6 ms Request ID: [d163860d-2f0e-432f-8a77-9c73865e3e6d]
+
+Started POST /login for :: ::1 at Sun Jan 28 2024 14:58:56 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"hans.latoja@gmail.com","password":"genius123"}
+Completed: 200 message:  Time response: 194 ms Request ID: [b6adccda-2ff4-4652-bc50-85251b02f848]
+
+Started GET /usuarios for :: ::1 at Sun Jan 28 2024 14:58:58 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 6 ms Request ID: [9ec2b4d4-bd23-47bf-8b77-123fd717611d]
+
+Started GET /usuarios for :: ::1 at Sun Jan 28 2024 14:58:58 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 9 ms Request ID: [6c0f0237-d0e7-4dff-90f5-2520f10efe17]
+
+Started GET /usuarios for :: ::1 at Sun Jan 28 2024 14:58:59 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /usuarios for :: ::1 at Sun Jan 28 2024 14:58:59 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 8 ms Request ID: [ce8f0820-d047-434c-9fd8-6a5eea5b137c]
+
+Completed: 304 message:  Time response: 9 ms Request ID: [9a92d007-cce2-437d-b3d6-8a9123d1e038]
+
+Started POST /usuarios for :: ::1 at Sun Jan 28 2024 14:59:12 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"columbia@gmail.com","password":"columbia","rol":"Frontend Developer","lenguage":"Python"}
+Completed: 200 message:  Time response: 209 ms Request ID: [1892df2d-8ee4-49ac-82ee-eb36aa645e8b]
+
+Started POST /login for :: ::1 at Sun Jan 28 2024 14:59:21 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"columbia@gmail.com","password":"columbia"}
+Completed: 200 message:  Time response: 133 ms Request ID: [f5817096-3a53-4a50-91ef-bbb0748e79c6]
+
+Started GET /usuarios for :: ::1 at Sun Jan 28 2024 14:59:22 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 7 ms Request ID: [957bd7a0-86ec-4c21-8188-74550e0c7ffe]
+
+Started GET /usuarios for :: ::1 at Sun Jan 28 2024 14:59:22 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 8 ms Request ID: [3f35ad7b-a3be-4ab5-a291-f283bdc2fdd7]
+
+Started GET /usuarios for :: ::1 at Sun Jan 28 2024 14:59:25 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 6 ms Request ID: [b743fa04-bf66-44eb-a581-3d6c69b918e1]
+
+Started GET /usuarios for :: ::1 at Sun Jan 28 2024 14:59:25 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 8 ms Request ID: [36431203-e5ba-42e9-91ca-001939783879]
+
+Started POST /login for :: ::1 at Sun Jan 28 2024 15:01:02 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"hans.latoja@gmail.com","password":"genius123"}
+Completed: 200 message:  Time response: 224 ms Request ID: [cf733291-e40c-45fa-98d9-91af8fe0d76f]
+
+Started GET /usuarios for :: ::1 at Sun Jan 28 2024 15:01:04 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 11 ms Request ID: [3d9e00a6-2d80-43ce-ae3f-e814b7e7ce69]
+
+Started GET /usuarios for :: ::1 at Sun Jan 28 2024 15:01:04 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 7 ms Request ID: [4d82a0ac-219d-439b-a658-31d02dbaee8c]
+
+Started POST /login for :: ::ffff:127.0.0.1 at Sun Jan 28 2024 15:01:53 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"hans.latoja@gmail.com","password":"genius123"}
+Completed: 200 message:  Time response: 209 ms Request ID: [e0020417-d76a-4bac-9c21-092f0f18d226]
+
+Started GET /usuarios for :: ::ffff:127.0.0.1 at Sun Jan 28 2024 15:02:04 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 80 ms Request ID: [c86de21f-d2de-4200-9168-b08c4858ceb1]
+
+Started GET /usuarios for :: ::ffff:127.0.0.1 at Sun Jan 28 2024 15:11:48 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 401 message:  Time response: 5 ms Request ID: [342f67c1-151c-4185-964f-9439fb72cb5b]
+
+Started POST /usuarios for :: ::ffff:127.0.0.1 at Sun Jan 28 2024 15:19:53 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"todyy@gmail.com","password":"perroo","rol":"Full Stack","lenguage":"Javascript"}
+Completed: 200 message:  Time response: 194 ms Request ID: [c2bfce5b-4636-484b-a78b-f06c1592e63d]
+
+Started POST /usuarios for :: ::ffff:127.0.0.1 at Sun Jan 28 2024 15:20:16 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"todyy@gmail.com","password":"perroo","rol":"Full Stack"}
+Completed: 200 message:  Time response: 4 ms Request ID: [e349bf88-5f5f-44f0-a3e4-18bc64d6f282]
+
+Started POST /login for :: ::ffff:127.0.0.1 at Sun Jan 28 2024 15:20:31 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"todyy@gmail.com","password":"genius123"}
+Completed: 400 message:  Time response: 213 ms Request ID: [0329e9b5-432a-43af-a8d6-31df94366881]
+
+Started POST /login for :: ::ffff:127.0.0.1 at Sun Jan 28 2024 15:20:35 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"todyy@gmail.com"}
+Completed: 404 message:  Time response: 4 ms Request ID: [acded596-779b-432c-8697-7d0581f3b5f0]
+
+Started POST /login for :: ::ffff:127.0.0.1 at Sun Jan 28 2024 15:20:47 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"todyy@gmail.com","password":"perroo"}
+Completed: 200 message:  Time response: 230 ms Request ID: [2c56a2df-8937-477e-ae0a-742b73e062cb]
+
+Started GET /usuarios for :: ::ffff:127.0.0.1 at Sun Jan 28 2024 15:20:59 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 83 ms Request ID: [0486c78d-20da-40e3-89b0-e8467d6f3272]
+
+Started POST /usuarios for :: ::1 at Sun Jan 28 2024 20:35:03 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"danone@gmail.com","password":"danone","rol":"Full Stack Developer","lenguage":"JavaScript"}
+Completed: 200 message:  Time response: 248 ms Request ID: [dcdc2156-2b06-4a82-8cc3-1079162edc7f]
+
+Started POST /login for :: ::1 at Sun Jan 28 2024 20:35:11 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"danone@gmail.com","password":"danone"}
+Completed: 200 message:  Time response: 150 ms Request ID: [9fc4e25f-7774-4eb7-b5a4-ec9dc5b464c5]
+
+Started GET /usuarios for :: ::1 at Sun Jan 28 2024 20:35:12 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 11 ms Request ID: [0d4a9c7d-8fca-4e87-9282-ecb7c2cb08d0]
+
+Started GET /usuarios for :: ::1 at Sun Jan 28 2024 20:35:12 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 304 message:  Time response: 8 ms Request ID: [8a22a6ee-8c13-4cc1-8fbb-5ae484f1771d]
